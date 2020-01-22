@@ -1,2 +1,2 @@
-#Todo Application
+#TodoApplication
 This app is based on Python-Django framework. It is the basic todolist, which gives you the functionality of adding and deleting daily chores. This comes with the admin panel, so user does not need to get into backend to add or delete things from his list.
